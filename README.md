@@ -50,3 +50,5 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 ~~~
 
+app/Http/Controllers/ThreadsController.php
+$table_name名前を環境に合わせて変更する。
