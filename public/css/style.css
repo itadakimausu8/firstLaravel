@@ -1,0 +1,52 @@
+/* body {font-size:16pt; color:#999; } */
+
+h1 { font-size:100pt; text-align:right; color:#f6f6f6;
+    margin:-50px 0px -100px 0px; }
+
+
+
+/* テーブル */
+.thread-table{
+    width:100dx;
+}
+.thread-table th{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #FFF;
+    background: #6eb7ff;
+    border-bottom: solid 6px #3d8ddd;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+}
+
+.thread-table th p{
+    margin: 0; 
+    padding: 0;
+}
+
+.thread-table tr{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #c2dbf7;
+}
+
+.thread-table .color{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #e5f0fc;
+}
+
+.thread-table tr:hover{
+    background: #fdccca;
+}
+
+.thread-table td{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    border: dashed 2px #5b8bd0;/*点線*/
+}
+
+.thread-table td p{
+    margin: 0; 
+    padding: 0;
+}
+
